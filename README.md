@@ -4,12 +4,12 @@ This repository contains cheat sheets for various courses at the National Univer
 
 ## Course Cheat Sheets
 
-- [CS2100 Finals cheatsheet.pdf](CS2100%20Finals%20cheatsheet.pdf): Cheat sheet for the CS2100 course's final exam.
-- [CS2106 Finals Cheatsheet.pdf](CS2106%20Finals%20Cheatsheet.pdf): Cheat sheet for the CS2106 course's final exam.
-- [CS2106 Midterm cheatsheet.pdf](CS2106%20Midterm%20cheatsheet.pdf): Cheat sheet for the CS2106 course's midterm exam.
-- [CS2109S Midterm Cheatsheet.pdf](CS2109S%20Midterm%20Cheatsheet.pdf): Cheat sheet for the CS2109S course's midterm exam.
-- [ST2334 Finals Cheatsheet.pdf](ST2334%20Finals%20Cheatsheet.pdf): Cheat sheet for the ST2334 course's final exam.
-- [ST2334 Midterm Cheatsheet.pdf](ST2334%20Midterm%20Cheatsheet.pdf): Cheat sheet for the ST2334 course's midterm exam.
+- [CS2100 Finals cheatsheet.pdf](CS2100%20Finals%20cheatsheet.pdf): Cheat sheet for the AY22/23 S1 CS2100 course's final exam.
+- [CS2106 Finals Cheatsheet.pdf](CS2106%20Finals%20Cheatsheet.pdf): Cheat sheet for the AY22/23 S2 CS2106 course's final exam.
+- [CS2106 Midterm cheatsheet.pdf](CS2106%20Midterm%20cheatsheet.pdf): Cheat sheet for the AY22/23 S2 CS2106 course's midterm exam.
+- [CS2109S Midterm Cheatsheet.pdf](CS2109S%20Midterm%20Cheatsheet.pdf): Cheat sheet for the AY22/23 S2 CS2109S course's midterm exam.
+- [ST2334 Finals Cheatsheet.pdf](ST2334%20Finals%20Cheatsheet.pdf): Cheat sheet for the AY22/23 S2 ST2334 course's final exam.
+- [ST2334 Midterm Cheatsheet.pdf](ST2334%20Midterm%20Cheatsheet.pdf): Cheat sheet for the AY22/23 S2 ST2334 course's midterm exam.
 
 ## Usage
 
