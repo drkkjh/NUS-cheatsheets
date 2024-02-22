@@ -1,5 +1,5 @@
 # NUS-cheatsheets
-Collation of cheatsheets for modules taken in NUS
+Collation of cheatsheets for modules taken in **NUS** and in my exchange university, **Purdue University, Indiana, USA**
 
 ## Academic year taken:
 ### CS2100 - AY22/23 Sem1 
