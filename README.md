@@ -16,4 +16,7 @@ Collation of cheatsheets for modules taken in **NUS** and in my exchange univers
 ### ST2334 - AY22/23 Sem2
 - [ST2334 Midterm Cheatsheet.pdf](ST2334%20Midterm%20Cheatsheet.pdf)
 - [ST2334 Finals Cheatsheet.pdf](ST2334%20Finals%20Cheatsheet.pdf)
-  
+
+## Purdue: 
+### Spring 2024
+- [CS381 Cheatsheet Spring 2024.pdf](/Purdue/CS381%20Cheatsheet%20Spring%202024.pdf)
