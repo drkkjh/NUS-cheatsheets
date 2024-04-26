@@ -20,3 +20,4 @@ Collation of cheatsheets for modules taken in **NUS** and in my exchange univers
 ## Purdue: 
 ### Spring 2024
 - [CS381 Cheatsheet Spring 2024.pdf](/Purdue/CS381%20Cheatsheet%20Spring%202024.pdf)
+- [CS373 Midterm Cheatsheet.pdf](/Purdue/CS373%20Midterm%20Cheatsheet.pdf)
